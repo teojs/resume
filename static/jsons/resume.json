@@ -1,0 +1,267 @@
+{
+  "status": 0,
+  "userName": "许楚生",
+  "jobType": "Web前端工程师",
+  "baseInfo": [
+  {
+    "infoName": "性别",
+    "value": "男",
+    "iconName": "xingbie",
+    "url": ""
+  },
+  {
+    "infoName": "出生",
+    "value": "1991-05-20",
+    "iconName": "rili",
+    "url": ""
+  },
+  {
+    "infoName": "手机",
+    "value": "15603066153",
+    "iconName": "tel",
+    "url": ""
+  },
+  {
+    "infoName": "QQ",
+    "value": "669420200",
+    "iconName": "qq",
+    "url": "tencent://message/?uin=669420200&Site=gxlinzi.cn35so.cn&Menu=yes"
+  },
+  {
+    "infoName": "邮箱",
+    "value": "cheesen.xu@gmail.com",
+    "iconName": "mail",
+    "url": "mailto:cheesen.xu@gmail.com"
+  },
+  {
+    "infoName": "工作经验",
+    "value": "两年",
+    "iconName": "woketime",
+    "url": ""
+  },
+  {
+    "infoName": "毕业学校",
+    "value": "广东职业技术学院",
+    "iconName": "xuexiao",
+    "url": "http://www.gdptc.cn/default.shtml"
+  },
+  {
+    "infoName": "学历",
+    "value": "大专",
+    "iconName": "xueli",
+    "url": ""
+  },
+  {
+    "infoName": "现住址",
+    "value": "广州白云永泰",
+    "iconName": "home",
+    "url": ""
+  },
+  {
+    "infoName": "工作地址",
+    "value": "广州",
+    "iconName": "company",
+    "url": ""
+  },
+  {
+    "infoName": "工作状态",
+    "value": "离职，正在找工作",
+    "iconName": "zhuangtai",
+    "url": ""
+  },
+  {
+    "infoName": "兴趣",
+    "value": "跑步、看电影、DIY、喝咖啡",
+    "iconName": "aihao",
+    "url": ""
+  }],
+  "skills": [
+  {
+    "skillName": "HTML5/CSS3",
+    "level": "5"
+  },
+  {
+    "skillName": "JS/jQuery",
+    "level": "4"
+  },
+  {
+    "skillName": "Node.js",
+    "level": "1"
+  },
+  {
+    "skillName": "PHP/ASP",
+    "level": "2"
+  },
+  {
+    "skillName": "Vue.js",
+    "level": "3"
+  },
+  {
+    "skillName": "Gulp/Webpack",
+    "level": "2"
+  },
+  {
+    "skillName": "Bootstrap/AmazeUI",
+    "level": "3"
+  },
+  {
+    "skillName": "Git/SVN",
+    "level": "2"
+  }],
+  "workExperience":
+  {
+    "firstTitle": "工作经验",
+    "iconName":"gongzuo",
+    "secondlist": [
+    {
+      "list": ["广州市万隆证券咨询顾问有限公司",
+      {
+        "listName": "工作时间：",
+        "listValue": "<p>2015/11~2017/06</p>"
+      },
+      {
+        "listName": "工作内容：",
+        "listValue": "<p>在该公司前期负责公司电子商务网站的前端以及后台开发管理，后期主要是负责维护网站服务器，以及搜索引擎的排名优化，主要负责工作有：</p><p>1、使用织梦等网站系统框架独立搭建公司营销商城；</p><p>2、参与SEO网站优化，提高搜索引擎收录；</p><p>3、搭建群服务器进行产品推广。</p>"
+      },
+      {
+        "listName": "离职原因：",
+        "listValue": "<p>薪酬低，无双休，加班时间长，后期往推广方向发展不适合我</p>"
+      }]
+    },
+    {
+      "list": [
+      "广州微胜科技公司",
+      {
+        "listName": "工作时间：",
+        "listValue": "<p>2015/03~2015/10</p>"
+      },
+      {
+        "listName": "工作内容：",
+        "listValue": "<p>在该公司前期负责公司电子商务网站的前端以及后台开发管理，后期主要是负责维护网站服务器，以及搜索引擎的排名优化，主要负责工作有：</p><p>1、使用织梦等网站系统框架独立搭建公司营销商城；</p><p>2、参与SEO网站优化，提高搜索引擎收录；</p><p>3、搭建群服务器进行产品推广。</p>"
+      },
+      {
+        "listName": "离职原因：",
+        "listValue": "<p>薪酬低，无双休，加班时间长，后期往推广方向发展不适合我</p>"
+      }]
+    }]
+  },
+  "careerObjective":
+  {
+    "firstTitle": "求职意向",
+    "iconName":"qiuzhi",
+    "secondlist": [
+    {
+      "list": ["Web前端工程师",
+      {
+        "listName": "期望薪资：",
+        "listValue": "<p>7-10K/月</p>"
+      },
+      {
+        "listName": "工作地点：",
+        "listValue": "<p>广州</p>"
+      },
+      {
+        "listName": "工作行业：",
+        "listValue": "<p>互联网/电子商务/金融</p>"
+      },
+      {
+        "listName": "个人标签：",
+        "listValue": "<p>CSS3 HTML5 jQuery 网页设计 web前端</p>"
+      },
+      {
+        "listName": "自我评价：",
+        "listValue": "<p>精通HTML5+CSS3，能用Sublime Text编译器手写原生代码，能根据设计图高度还原为HTML页面，懂Bootstrap、Amaze UI、Vue.js、Nodejs、等流行的前端开发框架、熟练js/jQuery等特效和插件编写，能够用gulp等构建工具开发网站。喜欢钻研学习网站相关的知识，有PHP、ASP、SEO基础。与机械或软件编程相关的都能很快上手，学习和动手能力强。</p>"
+      },
+      {
+        "listName": "到岗时间：",
+        "listValue": "<p>立即</p>"
+      },
+      {
+        "listName": "工作类型：",
+        "listValue": "<p>全职</p>"
+      }]
+    }]
+  },
+  "eduExperience":
+  {
+    "firstTitle": "教育经验",
+    "iconName":"xueli",
+    "secondlist": [
+    {
+      "list": ["广东职业技术学院",
+      {
+        "listName": "教育时间：",
+        "listValue": "<p>2012/10~2015/06</p>"
+      },
+      {
+        "listName": "学　　历：",
+        "listValue": "<p>大专</p>"
+      },
+      {
+        "listName": "专　　业：",
+        "listValue": "<p>网站设计</p>"
+      },
+      {
+        "listName": "专业描述：",
+        "listValue": "<p>Web前端开发、jQuery、HTML5+CSS3、Vue.js、搜索引擎优化</p>"
+      }]
+    }]
+  },
+  "projectExperience":
+  {
+    "firstTitle": "项目经验",
+    "iconName":"xiangmu",
+    "secondlist": [
+    {
+      "list": [
+      "好股007Web",
+      {
+        "listName": "时　　间：",
+        "listValue": "<p>2016/05-2016/10</p>"
+      },
+      {
+        "listName": "所属公司：",
+        "listValue": "<p>广州市万隆证券咨询顾问有限公司</p>"
+      },
+      {
+        "listName": "项目描述：",
+        "listValue": "<p>好股007是一个股票资讯交流web交流平台，提供用户注册并评论个人对股票涨跌趋势的看法，让更多不会炒股的用户也能慢慢懂得如何去正确看一只好股与操作。（项目线上网址为： <a href='http://www.haogu007.com' target='_blank'>http://www.haogu007.com<i class='iconfont icon-wailian ib'></i></a>）</p>"
+      },
+      {
+        "listName": "责任描述：",
+        "listValue": "<p>在项目中主要担任独立web前端的页面设计以及用户交互设计，配合后台提供的API接口进行数据的交互传输。</p>"
+      }]
+    },
+    {
+      "list": [
+      "好股快H5",
+      {
+        "listName": "时　　间：",
+        "listValue": "<p>2017/01-2017/06</p>"
+      },
+      {
+        "listName": "所属公司：",
+        "listValue": "<p>广州市万隆证券咨询顾问有限公司</p>"
+      },
+      {
+        "listName": "项目描述：",
+        "listValue": "<p>好股快是公司通过大数据分析得出的一个可以给用户提供智能炒股资讯的移动端以及APP的平台，用户可以通过购买包月形式来获得智能的选股推荐以及最适合的股票操作方案。（项目线上网址为： <a href='http://hgk.wlstock.com' target='_blank'>http://hgk.wlstock.com<i class='iconfont icon-wailian ib'></i></a>）</p>"
+      },
+      {
+        "listName": "责任描述：",
+        "listValue": "<p>在项目中主要担任独立web前端的页面设计以及用户交互设计，配合后台提供的API接口进行数据的交互传输。</p>"
+      }]
+    }]
+  },
+  "relatedWorks":
+  {
+    "firstTitle": "相关作品",
+    "iconName":"xiangmu",
+    "secondlist": [
+    {
+      "list": [
+      "待添加..."
+      ]
+    }]
+  }
+}
