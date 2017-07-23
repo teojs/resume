@@ -79,16 +79,24 @@
     "infoName": "个人主页",
     "value": "https://cheesenx.github.io",
     "iconName": "modify",
-    "url": ""
+    "url": "https://cheesenx.github.io"
   }],
   "skills": [
   {
     "skillName": "HTML5/CSS3",
-    "level": "5"
+    "level": "4"
   },
   {
-    "skillName": "JS/jQuery",
+    "skillName": "Sass",
+    "level": "4"
+  },
+  {
+    "skillName": "Javascript",
     "level": "3"
+  },
+  {
+    "skillName": "jQuery",
+    "level": "4"
   },
   {
     "skillName": "Node.js",
@@ -103,7 +111,19 @@
     "level": "3"
   },
   {
-    "skillName": "Gulp/Webpack",
+    "skillName": "Angular.js",
+    "level": "1"
+  },
+  {
+    "skillName": "React.js",
+    "level": "1"
+  },
+  {
+    "skillName": "Gulp",
+    "level": "2"
+  },
+  {
+    "skillName": "Webpack",
     "level": "2"
   },
   {
