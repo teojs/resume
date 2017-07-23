@@ -74,6 +74,12 @@
     "value": "跑步、看电影、DIY、喝咖啡",
     "iconName": "aihao",
     "url": ""
+  },
+  {
+    "infoName": "个人主页",
+    "value": "https://cheesenx.github.io",
+    "iconName": "modify",
+    "url": ""
   }],
   "skills": [
   {
@@ -82,7 +88,7 @@
   },
   {
     "skillName": "JS/jQuery",
-    "level": "4"
+    "level": "3"
   },
   {
     "skillName": "Node.js",
@@ -225,7 +231,7 @@
       },
       {
         "listName": "项目描述：",
-        "listValue": "<p>好股007是一个股票资讯交流web交流平台，提供用户注册并评论个人对股票涨跌趋势的看法，让更多不会炒股的用户也能慢慢懂得如何去正确看一只好股与操作。（项目线上网址为： <a href='http://www.haogu007.com' target='_blank'>http://www.haogu007.com<i class='iconfont icon-wailian ib'></i></a>）</p>"
+        "listValue": "<p>好股007是一个股票资讯交流web交流平台，提供用户注册并评论个人对股票涨跌趋势的看法，让更多不会炒股的用户也能慢慢懂得如何去正确看一只好股与操作。「项目线上网址为： <a href='http://www.haogu007.com' target='_blank'>http://www.haogu007.com<i class='iconfont icon-wailian ib'></i></a>」</p>"
       },
       {
         "listName": "责任描述：",
@@ -245,7 +251,7 @@
       },
       {
         "listName": "项目描述：",
-        "listValue": "<p>好股快是公司通过大数据分析得出的一个可以给用户提供智能炒股资讯的移动端以及APP的平台，用户可以通过购买包月形式来获得智能的选股推荐以及最适合的股票操作方案。（项目线上网址为： <a href='http://hgk.wlstock.com' target='_blank'>http://hgk.wlstock.com<i class='iconfont icon-wailian ib'></i></a>）</p>"
+        "listValue": "<p>好股快是公司通过大数据分析得出的一个可以给用户提供智能炒股资讯的移动端以及APP的平台，用户可以通过购买包月形式来获得智能的选股推荐以及最适合的股票操作方案。「项目线上网址为： <a href='http://hgk.wlstock.com' target='_blank'>http://hgk.wlstock.com<i class='iconfont icon-wailian ib'></i></a>」</p>"
       },
       {
         "listName": "责任描述：",
@@ -260,8 +266,36 @@
     "secondlist": [
     {
       "list": [
-      "待添加..."
+      "作品展示图",
+      {
+        "listName":"",
+        "listValue":"<div class='min-img'><img data-action='zoom' src='static/img/works.png' alt='作品展示图' /></div>"
+      }
       ]
+    },
+    {
+      "list": [
+      "此简历就是一份作品",
+      {
+        "listName":"●　",
+        "listValue":"<p>如果您看到此简历是纸质打印版，可访问本人的Github浏览此网页版「https://cheesenx.github.io」</p>"
+      },
+      {
+        "listName":"●　",
+        "listValue":"<p>此简历是基于Vue.js开发的组件化模型网页，使用json模拟数据来源进行渲染，使用Webpack来构建开发并自动打包代码</p>"
+      },
+      {
+        "listName":"●　",
+        "listValue":"<p>开发工具：Sublime Text 3、Nodejs、Webpack、Scss、Iconfont</p>"
+      },
+      {
+        "listName":"●　",
+        "listValue":"<p>采用响应式设计，兼容PC、平板及移动端</p>"
+      },
+      {
+        "listName":"●　",
+        "listValue":"<p>此简历开发源码已托管在Gitthub「<a href='https://github.com/Cheesenx/vue-resume' target='_blank'>https://github.com/Cheesenx/vue-resume<i class='iconfont icon-wailian ib'></i></a>」</p>"
+      }]
     }]
   }
 }
