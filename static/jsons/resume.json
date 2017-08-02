@@ -206,7 +206,7 @@
         },
         {
           "listName": "自我评价：",
-          "listValue": "<p>精通HTML5+CSS3，能用Sublime Text编译器手写原生代码，能根据设计图高度还原为HTML页面，熟悉Bootstrap、Amaze UI、Framework 7等流行的前端UI开发框架、会使用Vue.js、Webpack、Sass等工具构建组件化开发流程、熟练Js/jQuery等特效和插件编写。喜欢钻研学习网站相关的知识，有PHP、ASP、SEO基础。与机械或软件编程相关的都能很快上手，学习和动手能力强。希望贵公司能给我一个让我展示能力的空间。</p>"
+          "listValue": "<p>精通<b>HTML5+CSS3</b>，能用<b>Sublime Text</b>编译器手写原生代码，能根据设计图高度还原为HTML页面，熟悉<b>Bootstrap</b>、<b>Amaze UI</b><b>、Framework 7</b>等流行的前端UI开发框架、会使用<b>Vue.js</b>、<b>Webpack</b>、<b>Sass</b>等工具构建组件化开发流程、熟练<b>Js/jQuery</b>等特效和插件编写。喜欢钻研学习网站相关的知识，有<b>PHP</b>、<b>ASP</b>、<b>SEO</b>基础。与机械或软件编程相关的都能很快上手，学习和动手能力强。希望贵公司能给我一个让我展示能力的空间。</p>"
         },
         {
           "listName": "到岗时间：",
@@ -310,7 +310,7 @@
         "作品展示图",
         {
           "listName": "",
-          "listValue": "<div class='min-img'><img data-action='zoom' src='static/img/works.png' alt='作品展示图' /></div>"
+          "listValue": "<div class='min-img'><img data-action='zoom' src='/static/img/works.png' alt='作品展示图' /></div>"
         }
       ]
     },
@@ -323,7 +323,7 @@
         },
         {
           "listName": "●　",
-          "listValue": "<p>此简历是基于Vue.js开发的组件化模型网页，使用json模拟数据来源进行渲染，使用Webpack来构建开发并自动打包代码</p>"
+          "listValue": "<p>此简历是基于<b>Vue.js</b>开发的组件化模型网页，使用json模拟数据来源进行渲染，使用Webpack来构建开发并自动打包代码</p>"
         },
         {
           "listName": "●　",
