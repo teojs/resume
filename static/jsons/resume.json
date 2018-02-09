@@ -41,7 +41,7 @@
   },
   {
     "infoName": "毕业学校",
-    "value": "广东职业技术学院",
+    "value": "广东纺织职业技术学院",
     "iconName": "xuexiao",
     "url": "http://www.gdptc.cn/default.shtml"
   },
@@ -53,7 +53,7 @@
   },
   {
     "infoName": "住　　址",
-    "value": "广州白云永泰",
+    "value": "广州白云",
     "iconName": "home",
     "url": ""
   },
@@ -76,7 +76,7 @@
     "url": ""
   },
   {
-    "infoName": "个人主页",
+    "infoName": "Github",
     "value": "https://cheesenx.github.io",
     "iconName": "modify",
     "url": "https://cheesenx.github.io"
@@ -91,32 +91,20 @@
     "level": "4"
   },
   {
-    "skillName": "Javascript",
-    "level": "3"
-  },
-  {
     "skillName": "jQuery",
     "level": "4"
   },
   {
-    "skillName": "Node.js",
-    "level": "1"
-  },
-  {
-    "skillName": "PHP/ASP",
-    "level": "2"
+    "skillName": "Javascript",
+    "level": "3"
   },
   {
     "skillName": "Vue.js",
     "level": "3"
   },
   {
-    "skillName": "Angular.js",
-    "level": "1"
-  },
-  {
-    "skillName": "React.js",
-    "level": "1"
+    "skillName": "Bootstrap/AmazeUI",
+    "level": "3"
   },
   {
     "skillName": "Gulp",
@@ -127,12 +115,24 @@
     "level": "2"
   },
   {
-    "skillName": "Bootstrap/AmazeUI",
-    "level": "3"
-  },
-  {
     "skillName": "Git/SVN",
     "level": "2"
+  },
+  {
+    "skillName": "PHP/ASP",
+    "level": "2"
+  },
+  {
+    "skillName": "Node.js",
+    "level": "1"
+  },
+  {
+    "skillName": "Angular.js",
+    "level": "1"
+  },
+  {
+    "skillName": "React.js",
+    "level": "1"
   }],
   "workExperience":
   {
@@ -155,7 +155,7 @@
       },
       {
         "listName": "离职原因：",
-        "listValue": "<p>项目少，没什么发展空间</p>"
+        "listValue": "<p>业务简单，分工比较细，没机会往全栈方向发展</p>"
       }]
     },
     {
@@ -190,23 +190,11 @@
         "Web前端工程师",
         {
           "listName": "期望薪资：",
-          "listValue": "<p>6-8K/月</p>"
+          "listValue": "<p>5-7K/月</p>"
         },
         {
           "listName": "工作地点：",
           "listValue": "<p>广州</p>"
-        },
-        {
-          "listName": "工作行业：",
-          "listValue": "<p>互联网/电子商务/金融</p>"
-        },
-        {
-          "listName": "个人标签：",
-          "listValue": "<p>CSS3 HTML5 jQuery Vue web前端 Sass</p>"
-        },
-        {
-          "listName": "自我评价：",
-          "listValue": "<p>精通<b>HTML5+CSS3</b>，能用<b>Sublime Text</b>编译器手写原生代码，能根据设计图高度还原为HTML页面，熟悉<b>Bootstrap</b>、<b>Amaze UI</b><b>、Framework 7</b>等流行的前端UI开发框架、会使用<b>Vue.js</b>、<b>Webpack</b>、<b>Sass</b>等工具构建组件化开发流程、熟练<b>Js/jQuery</b>等特效和插件编写。喜欢钻研学习网站相关的知识，有<b>PHP</b>、<b>ASP</b>、<b>SEO</b>基础。与机械或软件编程相关的都能很快上手，学习和动手能力强。希望贵公司能给我一个让我展示能力的空间。</p>"
         },
         {
           "listName": "到岗时间：",
@@ -215,6 +203,10 @@
         {
           "listName": "工作类型：",
           "listValue": "<p>全职</p>"
+        },
+        {
+          "listName": "自我评价：",
+          "listValue": "<p>本人能用Sublime编译器手写原生<b>HTML5</b>、<b>CSS3(Sass)</b>、<b>js</b>代码，熟悉各种浏览器兼容问题，擅于用谷歌开发者工具或者微信开发者工具对PC和移动端进行调试，发现Bug并解决，会使用<b>Bootstrap</b>、<b>Amaze UI</b><b>、Framework 7</b>等流行的前端UI框架，熟练<b>Js/jQuery</b>等特效和插件编写，会使用<b>Vue.js</b>、<b>Webpack</b>、<b>Sass</b>等工具构建组件化开发流程，有<b>PHP</b>、<b>ASP</b>基础，能根据后台提供的api数据进行读取和写入，喜欢钻研学习网站相关的知识，学习和动手能力强，能快速上手新项目。有Github空间：https://cheesenx.github.io/，希望贵公司能给我一个让我展示能力的空间。</p>"
         }
       ]
     }]
@@ -225,7 +217,7 @@
     "iconName": "xueli",
     "secondlist": [
     {
-      "list": ["广东职业技术学院",
+      "list": ["广东纺织职业技术学院",
       {
         "listName": "教育时间：",
         "listValue": "<p>2012/10~2015/06</p>"
@@ -240,7 +232,7 @@
       },
       {
         "listName": "专业所学：",
-        "listValue": "<p>Web前端开发、jQuery、HTML5+CSS3、搜索引擎优化、PHPH、ASP等</p>"
+        "listValue": "<p>Web前端开发、Javascript、HTML5+CSS3、搜索引擎优化、PHPH、ASP等</p>"
       }]
     }]
   },
@@ -323,7 +315,7 @@
         },
         {
           "listName": "●　",
-          "listValue": "<p>此简历是基于<b>Vue.js</b>开发的组件化模型网页，使用json模拟数据来源进行渲染，使用Webpack来构建开发并自动打包代码</p>"
+          "listValue": "<p>此简历是基于<b>Vue + Vuex + axios</b>开发的组件化模型网页，使用json模拟数据来源进行渲染，使用Webpack来构建开发并自动打包代码</p>"
         },
         {
           "listName": "●　",
